@@ -1,0 +1,13 @@
+name = "GraphUtil"
+filename = "graphutil-fabric-1.0.0-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86bedd0e3e988b3d03f4ff950c01716059653ec0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4008552
+project-id = 681955

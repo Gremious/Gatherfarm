@@ -1,0 +1,13 @@
+name = "Straw Golem Rebaled"
+filename = "Strawgolem-fabric-1.19-2.0.0b2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17411193fa1feaee12fdf77fd3bfaf85157ce125"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3973286
+project-id = 449768

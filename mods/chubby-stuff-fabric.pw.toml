@@ -1,0 +1,13 @@
+name = "Chubby Stuff! [Fabric]"
+filename = "chubbystuff-2.0.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6cb4afd1d76cf3f3607ebf89b18b3f8ae7965e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4049351
+project-id = 614985

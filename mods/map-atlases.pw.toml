@@ -1,0 +1,13 @@
+name = "Map Atlases [Fabric]"
+filename = "map-atlases-2.2.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31eac3461ded563a12eb79b84d1b55c951f0592f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062291
+project-id = 436298
